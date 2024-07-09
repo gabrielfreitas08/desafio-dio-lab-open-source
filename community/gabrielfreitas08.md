@@ -17,4 +17,4 @@ Aprendendo diariamente sobre a linguaguem
 ### 📲 Você pode me encontrar em:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gabrielfreitas08)
-[![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=)](880gabrielfreitas@gmail.com) 
+[![Gmail](https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logo=Gmail&logoColor=)](880gabrielfreitas@gmail.com) 
